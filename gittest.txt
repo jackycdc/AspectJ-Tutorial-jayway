@@ -1,8 +1,10 @@
 This is the 1st line
 This is the second line
+test conflict
 This is the third line
 4
 5
 6
+conflict
 7
 8
